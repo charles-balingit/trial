@@ -1,4 +1,5 @@
 streamlit
 tensorflow
 numpy
-pillow
+joblib
+scikit-learn
